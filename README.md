@@ -1,2 +1,5 @@
 # PerlinNoise
-Projet réalisé en Jva qui permet la visualisation du bruit de perlin
+Projet réalisé en Java qui permet la visualisation du bruit de perlin
+
+Notes:
+- Il faut installer Java3D
